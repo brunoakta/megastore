@@ -1,0 +1,9 @@
+[package]
+name = "megastore"
+version = "0.1.0"
+edition = "2021"
+authors = ["Projeto acadêmico ConectaStore"]
+description = "Sistema de recomendação por grafos ponderados e lista de adjacência"
+license = "MIT"
+
+[dependencies]
