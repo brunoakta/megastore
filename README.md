@@ -170,6 +170,7 @@ O protótipo **não é uma plataforma de produção**: todos os dados permanecem
 
 * O projeto deverá ser enviado para um repositório **público no GitHub**. O trabalho também inclui um **relatório técnico em PDF** e um **vídeo de no máximo 4 minutos** com demonstração real, testes e desempenho.
 * GitHub: **https://github.com/brunoakta/megastore/**
+* Video Pitch: **https://www.youtube.com/watch?v=rf1fgIZiTO8**
 
 
 
